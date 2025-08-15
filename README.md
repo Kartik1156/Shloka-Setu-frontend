@@ -16,5 +16,7 @@ It connects to the backend API to fetch Sanskrit shlokas, translations, and mean
 - CSS
 - JavaScript (Vanilla)
 - Fetch API
-(link){https://shlokasetu.netlify.app/]
+
+[Visit Shloka Setu](https://shlokasetu.netlify.app/)
+
 
