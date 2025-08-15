@@ -17,6 +17,6 @@ It connects to the backend API to fetch Sanskrit shlokas, translations, and mean
 - JavaScript (Vanilla)
 - Fetch API
 
-[Visit Shloka Setu](https://shlokasetu.netlify.app/)
+[Visit Shloka Setu](https://shlokasetu.netlify.app/) <br>
 [Backend Repo](https://github.com/Kartik1156/Shloka-Setu-Backend)
 
