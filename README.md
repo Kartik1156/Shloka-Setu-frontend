@@ -1,1 +1,1 @@
-<h1>Bhagvad Gita</h1>
+<h1>Shloka Setu Frontend</h1>
