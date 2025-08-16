@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  // 🎵 Music control
+  //  Music control
   const playBtn = document.getElementById("i");
   const music = document.getElementById("bgMusic");
   let isPlaying = false;
@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
-  // ⏳ Preloader fade-out
+  //  Preloader 
   const preloader = document.getElementById("preloader");
   if (preloader) {
     setTimeout(() => {
@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }, 2000);
   }
 
-  // 💬 Chatbot logic
+  //  Chatbot 
   const inputField = document.getElementById("input");
   const sendBtn = document.getElementById("send-btn");
   const chatMessages = document.getElementById("chat-messages");
